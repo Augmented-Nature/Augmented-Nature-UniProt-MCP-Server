@@ -1,9 +1,12 @@
-
 # Unofficial UniProt MCP Server
 
 A comprehensive Model Context Protocol (MCP) server providing advanced access to the UniProt protein database. This server offers 26 specialized bioinformatics tools enabling AI assistants and MCP clients to perform sophisticated protein research, comparative genomics, structural biology analysis, and systems biology investigations directly through UniProt's REST API.
 
 **Developed by [Augmented Nature](https://augmentednature.ai)**
+
+<a href="https://glama.ai/mcp/servers/@Augmented-Nature/UniProt-MCP-Server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Augmented-Nature/UniProt-MCP-Server/badge" alt="UniProt Server MCP server" />
+</a>
 
 ## Features
 
@@ -504,9 +507,11 @@ This comprehensive UniProt MCP Server is developed by **[Augmented Nature](https
 ## Citation
 If you use this project in your research or publications, please cite it as follows:
 
-```bibtex @misc{uniprotmcp2025, 
+```bibtex
+@misc{uniprotmcp2025, 
 author = {Moudather Chelbi},
 title = {UniProt MCP Server},
 year = {2025},
 howpublished = {https://github.com/Augmented-Nature/Augmented-Nature-UniProt-MCP-Server/},
 note = {Accessed: 2025-06-29}
+```
