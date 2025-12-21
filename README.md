@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/augmented-nature-augmented-nature-uniprot-mcp-server-badge.png)](https://mseep.ai/app/augmented-nature-augmented-nature-uniprot-mcp-server)
+
 
 # Unofficial UniProt MCP Server
 
